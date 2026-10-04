@@ -1,4 +1,6 @@
-This is my own made OpenWrt image for Lenovo IdeaPad 110-15ACL laptop. This includes the Wi-Fi driver, Ethernet driver, USB to LAN adapter internet and the FS size larger than 100MB to write on a flash drive and use every day.
+This is my own made OpenWrt image for Lenovo IdeaPad 110-15ACL laptop. 
+
+This includes the Wi-Fi driver, Ethernet driver, USB to LAN adapter internet and the FS size larger than 100MB to write on a flash drive and use every day.
 
 You can use this repository in any ways as you want.
 
