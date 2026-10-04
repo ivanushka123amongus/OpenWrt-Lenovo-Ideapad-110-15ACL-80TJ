@@ -4,4 +4,6 @@ This includes the Wi-Fi driver, Ethernet driver, USB to LAN adapter internet and
 
 You can use this repository in any ways as you want.
 
-Thanks to: ivanushka123amongus (me), https://github.com/frkd-dev (Oleksandr) and OpenWrt team for having x86_64 images and making the whole system.
+Thanks to: ivanushka123amongus (me)
+@frkd-dev (Oleksandr)
+OpenWrt team for having x86_64 images and making the whole system.
