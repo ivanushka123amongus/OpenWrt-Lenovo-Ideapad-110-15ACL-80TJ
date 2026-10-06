@@ -1,6 +1,6 @@
 This is my own made OpenWrt image for Lenovo IdeaPad 110-15ACL laptop. 
 
-This includes the Wi-Fi driver, Ethernet driver, USB to LAN adapter internet, RNDIS (Android USB Internet sharing) driver, and the FS size larger than 100MB to write on a flash drive and write using BalenaEtcher onto a flash drive
+This includes the Wi-Fi driver, Ethernet driver, USB to LAN adapter internet, RNDIS (Android USB Internet sharing) driver, and the FS size larger than 100MB to write using BalenaEtcher onto a flash drive
 
 You can use this repository in any ways as you want.
 
